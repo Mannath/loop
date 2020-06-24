@@ -1,5 +1,5 @@
 # loop
-Input Format  The input will contain a single integer 'n' .  Constraints 1&lt;n&lt;1000   Output Format  Print the pattern mentioned in the problem statement.
+Input Format  The input will contain a single integer 'n' .  Constraints 1&lt;n&lt;10   Output Format  Print the pattern mentioned in the problem statement.
 
 
                             4 4 4 4 4 4 4  
